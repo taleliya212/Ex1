@@ -67,7 +67,6 @@ public class Ex1 {
             }
         }
         return result;
-
     }
     /**
      * This static function checks if the given String (g) is in a valid "number" format.
