@@ -12,10 +12,10 @@ The program can check if a number is valid, perform arithmetic operations, and c
 
 ## How it run:
 **The main program Follow the instructions:**
-a) Enter 2 numbers in the format <number>b<base> or <number>
-b) Perform addition or multiplication.
-c) Convert numbers to different bases.
-d) Find the largest number in a list of numbers.
+* Enter 2 numbers in the format <number>b<base> or <number>
+* Perform addition or multiplication.
+* Convert numbers to different bases.
+* Find the largest number in a list of numbers.
 
 ******
 
